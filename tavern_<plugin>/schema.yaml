@@ -1,0 +1,6 @@
+---
+name: MQTT schemas
+desc: pykwalify schemas for <plugin>
+
+initialisation:
+  # <plugin>: 
